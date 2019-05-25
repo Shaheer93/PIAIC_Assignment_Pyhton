@@ -1,0 +1,17 @@
+do() function
+a.do() method
+a.do attribute
+
+20 operands 
+20 operators
+and then perform operation
+
+a= "hello"
+a * 2 repeats 2 time "hellohello" overloading
+
+&& is AND in python
+
+| YE OR FOR OR STATEMENT
+& YE AND FOR AND STATEMENT
+
+else if isma elif
